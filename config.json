@@ -1,0 +1,6 @@
+{
+    "dashboard_api_base_url": "https://api.meraki.com/api/v1",
+    "organization_id": "123456",
+    "meraki_api_key": "abcdef1234567890abcdef1234567890abcdef12",
+    "default_timezone": "America/New_York"
+}
