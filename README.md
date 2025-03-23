@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/9deebae8-bf2f-41e7-9a9a-94293db50cfe)# Meraki Deployment Automation
-
 ## Overview
 This Python-based solution automates the deployment of Meraki switches and MX85 security appliances using the Meraki Dashboard API. It combines flexibility, configurability, and validation to streamline enterprise rollouts.
 
